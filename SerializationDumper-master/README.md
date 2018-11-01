@@ -1,3 +1,4 @@
+# 工具_反序列化自动解析包含的数据类型
 # SerializationDumper
 A tool to dump Java serialization streams in a more human readable form.
 
