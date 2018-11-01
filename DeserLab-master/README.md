@@ -1,4 +1,4 @@
-# DeserLab
+# DeserLab——模拟实战环境
 Java deserialization exploitation lab.
 
 Simple Java client and server application that implements a custom network protocol using the Java serialization format to demonstrate Java deserialization vulnerabilities.
